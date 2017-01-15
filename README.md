@@ -7,7 +7,7 @@
     - [ ] [#7 ユーザー毎のマーカーを作成](https://github.com/YosukeSasaoka/kamei-app-client/issues/7)
     - [ ] [#8 GoogleMap上にマーカーを表示](https://github.com/YosukeSasaoka/kamei-app-client/issues/8)
 - [ ] 偽装行動設定機能(2/11)
-  - [ ] [#9 偽装行動日付登録](https://github.com/YosukeSasaoka/kamei-app-client/issues/9)
+  - [ ] [#9 偽装行動日付登録](https://github.com/YosukeSasaoka/kamei-app-client/issues/9)
     - [ ] [#10 偽装行動日付設定画面を表示する](https://github.com/YosukeSasaoka/kamei-app-client/issues/10)
   - [ ] [#11 偽装行動開始・終了時刻の登録・更新](https://github.com/YosukeSasaoka/kamei-app-client/issues/11)
     - [ ] [#12 偽装行動開始・終了時刻設定画面を表示する](https://github.com/YosukeSasaoka/kamei-app-client/issues/12)
