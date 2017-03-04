@@ -19,6 +19,7 @@ export default function configureStore() {
   const createStoreWithMiddleware = applyMiddleware(
     thunk, logger
   )(createStore);
-  const store = createStoreWithMiddleware(reducers, DevTools.instrument());
+//  const store = createStoreWithMiddleware(reducers, DevTools.instrument());
+  const store = createStoreWithMiddleware(reducers);
   return store;
 }

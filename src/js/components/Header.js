@@ -12,10 +12,15 @@ export default class Header extends React.Component {
   render() {
     return (
       <div styleName="header">
+        <h1>カメログ</h1>
         <ul>
+{/*
+				  <li><Link to="/Login">Login</Link></li>
 				  <li><Link to="/Todo">React Todo App</Link></li>
 				  <li><Link to="/User">User test</Link></li>
-        </ul>
+				  <li><Link to="/SimpleMap">SimpleMap test</Link></li>
+*/}
+				</ul>
       </div>
     );
   }
